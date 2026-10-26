@@ -1,0 +1,40 @@
+{
+  "heading": "G10Unseen Poetry Part 1: Speaker and Turn(Writing)",
+  "topics": [
+    {
+      "heading": "Unseen Poetry Part 1: Speaker and Turn(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence with the word “Rue”, meaning: To feel deep regret or remorse about something.",
+          "text_area": "",
+          "answer": ["He would one day rue his decision to ignore the evidence that lay plainly before him."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence with the word “Tendance”, meaning: A tendency, trend, or prevailing inclination, especially in behaviour, thought, or fashion.",
+          "text_area": "",
+          "answer": ["The critic observed a growing tendance toward minimalism in contemporary architecture."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence with the word “Trot”, meaning: A moderately fast pace of movement, especially of a horse, between a walk and a gallop.",
+          "text_area": "",
+          "answer": ["At dawn, the rider urged her horse into a steady trot along the riverbank."]
+        },
+         
+   {
+  "questionNo": 4,
+  "type": "long",
+  "question": "Write an 8-12 line poem (on any theme), while making sure there is a speaker present (reliable or unreliable).",
+  "text_area": "",
+  "answer": [""]
+}
+
+      ]
+    }
+  ]
+}
